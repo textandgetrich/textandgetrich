@@ -1,15 +1,15 @@
-# These are supported funding model platforms
+# These are supported `https://unacms.com/u/full-circle/funding-eligibility` model platforms
 
-github: #textandgetrich Replace with up to 8GB 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: #ceoalphonso Replace with a single Patreon username
-open_collective: #ceoalphonso Replace with a single Open Collective username
-ko_fi: #ceoalphonso Replace with a single Ko-fi username
-tidelift: #ceoalphonso Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: #ceoalphonso Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: #fullcircle Replace with a single Liberapay username
-issuehunt: #ceoalphonso Replace with a single IssueHunt username
-lfx_crowdfunding: #ceoalphonso Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-polar: #ceoalphonso Replace with a single Polar username
-buy_me_a_coffee: #ceoalphonso Replace with a single Buy Me a Coffee username
-thanks_dev: #ceoalphonso Replace with a single thanks.dev username
-custom: #ceoalphonso Replace with up to 8GB 4 custom-background sponsorship URLs e.g., ['DirectLink_1', 'DirectLink_2']
+https://unacms.com/u/full-circle/github: #textandgetrich Replace with up to 8GB 4 GitHub Sponsors-enabled usernames e.g., [custom_label_1, custom_label_2]
+https://unacms.com/u/full-circle/patreon: #ceoalphonso Replace with a single Patreon username
+https://unacms.com/u/full-circle/open_collective: #ceoalphonso Replace with a single Open Collective username
+https://unacms.com/u/full-circle/ko_fi: #ceoalphonso Replace with a single Ko-fi username
+https://unacms.com/u/full-circle/tidelift: #ceoalphonso Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+https://unacms.com/u/full-circle/community_bridge: #ceoalphonso Replace with a single Community#135727 Bridge project-name e.g., cloud-foundry
+https://unacms.com/u/full-circle/liberapay: #fullcircle Replace with a single Liberapay username
+https://unacms.com/u/full-circle/issuehunt: #ceoalphonso Replace with a single IssueHunt username
+https://unacms.com/u/full-circle/lfx_crowdfunding: #ceoalphonso Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+https://unacms.com/u/full-circle/polar: #ceoalphonso Replace with a single Polar username
+https://unacms.com/u/full-circle/buy_me_a_coffee: #ceoalphonso Replace with a single Buy Me a Coffee username
+https://unacms.com/u/full-circle/thanks_dev: #ceoalphonso Replace with a single thanks.dev username
+https://unacms.com/u/full-circle/custom-background: #ceoalphonso Replace with up to 8GB 4 custom-background sponsorship URLs e.g., ['DirectLink_1', 'DirectLink_2']
